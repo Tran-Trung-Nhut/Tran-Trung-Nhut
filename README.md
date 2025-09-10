@@ -1,8 +1,8 @@
 ## Hi, I'm Trần Trung Nhựt 👋
 
-🎓 Final-year Computer Science student at Ho Chi Minh City University of Technology - VNU-HCM
-💻 Interested in Web & Mobile Development, AI Engineer
-📸 Hobby: Photography, Watching traveling vlog, Playing badminton and Running
+🎓 Final-year Computer Science student at Ho Chi Minh City University of Technology - VNU-HCM  
+💻 Interested in Web & Mobile Development, AI Engineer  
+📸 Hobby: Photography, Watching traveling vlog, Playing badminton and Running  
 
 ## 🛠️ Tech Stack
 - **Languages:** TypeScript, C++, JavaScript  
