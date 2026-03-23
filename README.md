@@ -32,6 +32,12 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📚 Publications & Research
+* **[Exploring the Reasoning Depth of Small Language Models in Software Architecture: A Multidimensional Evaluation Framework Towards Software Engineering 2.0](https://arxiv.org/abs/2603.07091)** — *Accepted at ICSA (2026)*
+    * **Authors:** Ha Vo, **Nhut Tran**, Khang Vo, Phat T. Tran-Truong, Son Ha
+    * **Overview:** A multidimensional framework benchmarking 10 state-of-the-art Small Language Models (SLMs) on their reasoning capabilities for Architectural Decision Records generation, analyzing the trade-offs between model size, context windows, and performance.
+    * **Links:** [arXiv Paper](https://arxiv.org/abs/2603.07091)
+
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/tran-trung-nhut/)
 - [Portfolio Website](https://trantrungnhut.vercel.app/)
