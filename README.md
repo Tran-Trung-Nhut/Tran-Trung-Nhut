@@ -1,4 +1,4 @@
-## Hi, I'm Trần Trung Nhựt 👋
+## Hi, I'm Trung-Nhut Tran 👋
 
 👨‍💻 **Backend Developer** @ Nexon Dev Vina | **Undergraduate Researcher** 🎓 Final-year Computer Science student at Ho Chi Minh City University of Technology - VNU-HCM  
 💡 Interested in Backend Architecture, Microservices, and AI Engineering  
