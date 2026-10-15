@@ -59,6 +59,10 @@
     * **Overview:** A multidimensional framework benchmarking 10 state-of-the-art Small Language Models (SLMs) on their reasoning capabilities for Architectural Decision Record generation, analyzing the trade-offs between model size, context windows, and performance.
     * **Link:** [arXiv Paper](https://arxiv.org/abs/2603.07091)
 
+* **[DelegateGuard: Purpose-Bound Capabilities for Delegated LLM Agent Workflows](https://arxiv.org/abs/2610.16005)** — *Presented at SecAssure@ESORICS (2026)*
+    * **Authors:** Phat T. Tran-Truong, Ha Vo, **Nhut Tran**, Khang Vo, Thai-Minh Truong
+    * **Overview:** A runtime reference monitor that converts a user's authorization into attenuable, purpose-bound capabilities for delegated LLM agents, mediating every data-moving action outside the model and cascading revocation through the delegation graph. It blocks exfiltration, authority amplification, and revocation-replay attacks, and cut multi-turn data leakage from 0.844 to 0.20 with full task completion at microsecond per-decision overhead.
+    * **Link:** [arXiv Paper](https://arxiv.org/abs/2610.16005)1)
 ---
 
 ## 🌐 Connect with me
