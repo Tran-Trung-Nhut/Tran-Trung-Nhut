@@ -57,7 +57,7 @@
 * **[Exploring the Reasoning Depth of Small Language Models in Software Architecture: A Multidimensional Evaluation Framework Towards Software Engineering 2.0](https://arxiv.org/abs/2603.07091)** — *Accepted at IEEE ICSA (2026)*
     * **Authors:** Ha Vo, **Nhut Tran**, Khang Vo, Phat T. Tran-Truong, Son Ha
     * **Overview:** A multidimensional framework benchmarking 10 state-of-the-art Small Language Models (SLMs) on their reasoning capabilities for Architectural Decision Record generation, analyzing the trade-offs between model size, context windows, and performance.
-    * **Link:** [arXiv Paper](https://arxiv.org/abs/2603.07091)
+    * **Link:** [arXiv Paper](https://ieeexplore.ieee.org/document/11641156)
 
 * **[DelegateGuard: Purpose-Bound Capabilities for Delegated LLM Agent Workflows](https://arxiv.org/abs/2610.16005)** — *Presented at SecAssure@ESORICS (2026)*
     * **Authors:** Phat T. Tran-Truong, Ha Vo, **Nhut Tran**, Khang Vo, Thai-Minh Truong
